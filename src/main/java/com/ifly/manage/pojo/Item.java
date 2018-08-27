@@ -12,7 +12,16 @@ public class Item {
 		this.name = name;
 	}
 	//dfsdfdgddhfbdsrthhhhhhhhhhhhhhhhhhhhhhhhh
+
+	@Override
+	public String toString() {
+		return "Item [name=" + name + "]";
+	}
 	
 	//12345778868768
 
+	
+	
+	
+	
 }
